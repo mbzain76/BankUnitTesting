@@ -1,2 +1,2 @@
-# BankUnitTesting Exp.
+# BankUnitTesting
 Simple C# Project with Unit Testing
